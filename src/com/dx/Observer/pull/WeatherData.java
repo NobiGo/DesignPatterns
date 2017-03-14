@@ -1,4 +1,4 @@
-package com.dx.Observer.pull;
+package com.dx.observer.pull;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.dx.Observer.pull;
+package com.dx.observer.pull;
 
 /**
  * Created by dx on 2017/3/14.
