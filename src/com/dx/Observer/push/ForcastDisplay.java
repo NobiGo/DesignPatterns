@@ -1,4 +1,4 @@
-package com.dx.Observer;
+package com.dx.Observer.push;
 
 /**
  * Created by dx on 2017/3/14.
